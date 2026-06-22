@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brb-blue: #003087;
+  --color-orgulho-roxo: #9B30FF;
+  --color-orgulho-ciano: #00E5FF;
+  --color-orgulho-amarelo: #FFD700;
+  --color-orgulho-escuro: #0A0A1A;
+  --color-arcoiris-vermelho: #FF0000;
+  --color-arcoiris-laranja: #FF7F00;
+  --color-arcoiris-amarelo: #FFFF00;
+  --color-arcoiris-verde: #00CC00;
+  --color-arcoiris-azul: #0000FF;
+  --color-arcoiris-anil: #4B0082;
+  --color-arcoiris-violeta: #9400D3;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
